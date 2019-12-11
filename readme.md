@@ -13,7 +13,7 @@ Git clone this repository, open a terminal in the repository directory and run:
 
 You should then be able to go to http://localhost:8080/ and see the webpage.
 
-You should see the HTTP the terminal where you ran `docker-compose up.` every time you visit the webpage on your browser.
+You should see the HTTP the terminal where you ran `docker-compose up` every time you visit the webpage on your browser.
 
 ## Using gatling
 
